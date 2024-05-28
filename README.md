@@ -6,7 +6,7 @@ barra del explorador
 
 [![Screenshot-2024-05-27-194444.png](https://i.postimg.cc/tJhkGQTz/Screenshot-2024-05-27-194444.png)](https://postimg.cc/jnSPy1yW)
 
-y dentro del cmd colocaras el siguiente codigo setup /configure configuration.xml este codigo esta en la pagina de microsoft 
+y dentro del cmd colocaras el siguiente codigo| setup /configure configuration.xml |este codigo esta en la pagina de microsoft 
 
 [![image.png](https://i.postimg.cc/zXF7dr4z/image.png)](https://postimg.cc/F710R298)
 
@@ -15,9 +15,9 @@ aqui empezara la descarga.
 # Activar OFFICE365 de manera gratuita
 
 Vamos a abrir el PowerShell de windows, dentro de este pegaremos el siguiente codigo:
-## irm https://get.activated.win | iex
+### irm https://get.activated.win | iex
 O tambien podemos usar
-## irm https://massgrave.dev/get | iex
+### irm https://massgrave.dev/get | iex
 
 Tendremos el siguiente menu:
 
