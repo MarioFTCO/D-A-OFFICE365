@@ -6,6 +6,8 @@ barra del explorador
 
 [![Screenshot-2024-05-27-194444.png](https://i.postimg.cc/tJhkGQTz/Screenshot-2024-05-27-194444.png)](https://postimg.cc/jnSPy1yW)
 
+recuerden cambiar el nombre del archivo.xml a configuration.xml
+
 y dentro del cmd colocaras el siguiente codigo| setup /configure configuration.xml |este codigo esta en la pagina de microsoft 
 
 [![image.png](https://i.postimg.cc/zXF7dr4z/image.png)](https://postimg.cc/F710R298)
