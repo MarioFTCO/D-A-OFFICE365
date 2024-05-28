@@ -36,6 +36,6 @@ por ultimo salimos del cmd con la opcion 0
 ![image](https://github.com/MarioFTCO/D-A-OFFICE365/assets/159574298/0c25f4ce-bde2-408c-843d-cae05799763d)
 
 abrimos cualquier aplicacion de microsoft y verificamos que todo este bien.
-Creditos: los scrips no son mios fueron sacados de:
+Creditos: los scripts no son mios fueron sacados de:
 ### https://massgrave.dev/
 
